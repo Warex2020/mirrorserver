@@ -32,8 +32,8 @@ Dieses Repository enthält ein Set von Shell-Skripten, um einen lokalen Mirror-S
 1. **Repository klonen**
 
    ```bash
-   git clone https://github.com/DEIN_USERNAME/DEIN_REPOSITORY.git
-   cd DEIN_REPOSITORY
+   git clone https://github.com/Warex2020/mirrorserver/mirrorserver.git
+   cd mirrorserver
 
 2.
 chmod +x setup_mirror.sh update_mirror.sh setup_webserver.sh setup_crontab.sh
